@@ -1,6 +1,6 @@
 "use client";
 
-import withAuth from "gsm/hoc/with-auth";
+import withAuth from "hst/hoc/with-auth";
 
 function UserDetail({params}){
     return (
